@@ -1,0 +1,24 @@
+input{
+    border: none;
+    outline: none;
+    font-size: 20px;
+    height: 45px;
+    width: 30%;
+}
+button{
+    border: none;
+    outline: none;
+    font-size: 20px;
+    height: 45px;
+}
+.url-form{
+    display: flex;
+    gap:20px;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+}
+.url-form-container{
+    width:100%
+}
+
